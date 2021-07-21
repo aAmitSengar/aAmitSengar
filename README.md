@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Arshad github stats](https://github-readme-stats.vercel.app/api?username=aamitsengar&show_icons=true&count_private=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamitsengar&layout=compact&theme=dracula&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamitsengar&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
