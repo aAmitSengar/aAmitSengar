@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 ![Arshad github stats](https://github-readme-stats.vercel.app/api?username=aamitsengar&show_icons=true&count_private=false&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamitsengar&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+सुखस्य मूलं धर्मः। धर्मस्य मूलं अर्थः। अर्थस्य मूलं राज्यं। राज्यस्य मूलं इन्द्रिय जयः। इन्द्रियाजयस्य मूलं विनयः। विनयस्य मूलं वृद्धोपसेवा॥
